@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://github.com/MariiaPrtsl/quiz-app-trivia/static/css/main.56dc804b.css",
+    "main.js": "https://github.com/MariiaPrtsl/quiz-app-trivia/static/js/main.7e58ab2e.js",
+    "index.html": "https://github.com/MariiaPrtsl/quiz-app-trivia/index.html",
+    "main.56dc804b.css.map": "https://github.com/MariiaPrtsl/quiz-app-trivia/static/css/main.56dc804b.css.map",
+    "main.7e58ab2e.js.map": "https://github.com/MariiaPrtsl/quiz-app-trivia/static/js/main.7e58ab2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56dc804b.css",
+    "static/js/main.7e58ab2e.js"
+  ]
+}
